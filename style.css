@@ -1,0 +1,11 @@
+body{
+    background: url(img/ppal.jpg);
+    background-size: cover;
+    background-position: center;
+    color:aquamarine;
+    font-family: 'Lato', sans-serif;
+}
+.main{
+    text-align: center;
+    padding-top: 25%;
+}
